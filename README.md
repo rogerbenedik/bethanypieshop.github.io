@@ -1,2 +1,1 @@
-# bethanypieshop.github.io
-Sample Bethany Pie Shop > Course i am doing from Pluralsight
+# Building Websites With HTML, CSS, and JavaScript: Getting Started
